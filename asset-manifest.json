@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FCaires/react-todo.git/static/css/main.52ae2692.css",
-    "main.js": "/FCaires/react-todo.git/static/js/main.1c383e17.js",
-    "static/js/787.63e47474.chunk.js": "/FCaires/react-todo.git/static/js/787.63e47474.chunk.js",
-    "index.html": "/FCaires/react-todo.git/index.html",
-    "main.52ae2692.css.map": "/FCaires/react-todo.git/static/css/main.52ae2692.css.map",
-    "main.1c383e17.js.map": "/FCaires/react-todo.git/static/js/main.1c383e17.js.map",
-    "787.63e47474.chunk.js.map": "/FCaires/react-todo.git/static/js/787.63e47474.chunk.js.map"
+    "main.css": "/react-todo/static/css/main.52ae2692.css",
+    "main.js": "/react-todo/static/js/main.cbc73597.js",
+    "static/js/787.63e47474.chunk.js": "/react-todo/static/js/787.63e47474.chunk.js",
+    "index.html": "/react-todo/index.html",
+    "main.52ae2692.css.map": "/react-todo/static/css/main.52ae2692.css.map",
+    "main.cbc73597.js.map": "/react-todo/static/js/main.cbc73597.js.map",
+    "787.63e47474.chunk.js.map": "/react-todo/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52ae2692.css",
-    "static/js/main.1c383e17.js"
+    "static/js/main.cbc73597.js"
   ]
 }
